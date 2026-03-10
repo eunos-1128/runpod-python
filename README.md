@@ -40,6 +40,16 @@ pip install runpod
 uv add runpod
 ```
 
+### Install from conda-forge
+
+```bash
+# Install with conda
+conda install -c conda-forge runpod-python
+
+# Install with pixi
+pixi add runpod-python
+```
+
 ### Install from GitHub (Latest Changes)
 
 To get the latest changes that haven't been released to PyPI yet:
